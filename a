@@ -1,0 +1,15 @@
+{
+    "name": Wallpaper,
+    "description": Use github links for wallpaper,
+    "authors": [
+        {
+            "name": Levirince,
+            "id": lmao
+        }
+    ],
+    "background": {
+        "url": https://w.wallhaven.cc/full/md/wallhaven-mdjrqy.jpg,
+        "alpha": 0.5
+    },
+    "spec": 2
+}
