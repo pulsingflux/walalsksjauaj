@@ -18,9 +18,9 @@
     "RAW_Color_1": "#00ff00",
     "RAW_Color_2": "#00ff00"
   },
-    "background": {
-        "url": "https://w.wallhaven.cc/full/md/wallhaven-mdjrqy.jpg",
-        "alpha": 0.5
-    },
+  "background": {
+    "url": "https://w.wallhaven.cc/full/md/wallhaven-mdjrqy.jpg",
+    "alpha": 0.5
+  },
   "spec": 2
 }
